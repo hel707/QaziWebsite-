@@ -1,0 +1,39 @@
+body{
+    font-family:'Raleway',sans-serif;
+    background-image: url('https://img.freepik.com/free-vector/prickly-juniper-branch-beige-gray-minimal-background_53876-113047.jpg');
+    max-width: 300px;
+    margin: auto;
+}
+h1{
+    color: green;
+}
+h1 a{
+    color: red;
+}
+h2 a:hover{
+    color: blue;
+    font-style: italic;
+}
+.chessboard{
+    border-radius: 20px;
+}
+.mate-in-one{
+    box-shadow: 10px 5px 36px burlywood;
+
+}
+.chessboard:hover{
+    box-shadow: 27px 18px 59px 8px green;
+
+}
+.mate-in-two{
+    box-shadow: 10px 5px 36px lightgreen;
+}
+ul {
+    color: pink;
+}
+ul a{
+    color:pink;
+}
+ul a:hover{
+    color: rosybrown;
+}
